@@ -210,5 +210,6 @@ return [
     */
 
     'partitioned' => false,
+    'remember_me_lifetime' => 43200, // Giá trị mặc định là 43200 phút (30 ngày)
 
 ];
